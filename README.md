@@ -43,4 +43,5 @@ The Federation University Dashboard is your compass for navigating the vast sea 
 
 Whether you're analyzing revenue trends, exploring cover counts, or visualizing data over time, our interactive dashboards provide the clarity you need to drive success. Start your journey toward data-driven excellence today!
 
+Join us in harnessing the power of data to shape the future of Federation University. 📊🎓
 
